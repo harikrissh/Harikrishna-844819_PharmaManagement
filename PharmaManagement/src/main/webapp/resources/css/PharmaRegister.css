@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+sup{
+    color: red;
+}
+
+h2{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 35px;
+}
+.left{
+    margin-left: 20px;
+}
+#pharmaReg, #drugReg{
+    display: table;
+    margin: 0 auto;
+}
+
+
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+label{
+    display: inline-block;
+    width: 170px;
+    text-align: left;
+}
+
+input{
+    border-radius: 5px;
+}
+button{
+	margin-left: 150px;
+}
+.invalid{
+	color: red;
+}
+.topcorner{
+   position:absolute;
+   top:10px;
+   right:10px;
+}

@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+h2{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 35px;
+}
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+label{
+    display: inline-block;
+    width: 170px;
+    text-align: right;
+}
+.pharma{	
+	display: table;
+    margin-top: 50px;
+    margin-left: 30rem;
+}
+
+#view{
+	margin-left:10rem;
+}
+.topleftcorner{
+	position:absolute;
+   	top:10px;
+   	left:10px;
+}
+.search{
+	margin-left:30rem;
+	margin-top:-8rem;
+}
+.toprightcorner{
+   position:absolute;
+   top:10px;
+   right:10px;
+}

@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h2{
+	display: inline-block;
+    margin-top: 20px;
+    margin-left:30px;
+    text-align: center;
+    font-size: 35px;
+}
+
+#logo{	
+	height: 60px;
+	width: 60px;
+	margin-left: 450px;
+}
+.loginForm{
+   	width: 250px;
+    margin: 0 auto;
+}
+
+#name{
+	display: inline-block;
+	text-align: right;
+	margin-left:35px;
+}
+#pwd{
+	display: inline-block;
+	text-align: right;
+	margin-left:55px;
+}
+button{
+	margin-left: 70px;
+}
+.link{
+ color: red;
+}
+footer{
+	margin-top: 170px;
+	text-align: center;
+}
